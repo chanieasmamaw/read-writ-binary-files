@@ -1,0 +1,13 @@
+countries
+"capital_city":
+"currency":
+},
+{"name":
+"capital_city":
+"currency":
+},
+{"name":
+"capital_city":
+"currency":
+}
+]

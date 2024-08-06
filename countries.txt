@@ -1,0 +1,13 @@
+countries = [{"name": "Spain",
+             "capital_city": "Madrid",
+             "currency": "EUR"
+            },
+            {"name": "United States",
+             "capital_city": "Washington",
+             "currency": "USD"
+            },
+            {"name": "Canada",
+             "capital_city": "Ottawa",
+             "currency": "CAD"
+            }
+           ]
